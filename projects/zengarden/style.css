@@ -1,0 +1,36 @@
+p {
+   color: green;
+   word-spacing:1em;
+   line-height: 1.5;
+   text-align: justify;
+}
+
+a { 
+   color: purple;
+}
+
+body { 
+      font-size: 14px;
+      background-color: blanchedalmond;
+ }
+
+h1 {
+    color:brown;
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+    background-image: url("images.jpeg");
+    background-size: cover;
+}
+
+h2, h3, h4 { 
+     color: brown;
+     font-family: cursive;
+     font-size: 30px;
+}
+
+.page-wrapper {
+    margin: 0% 25% 0% 25%;
+}
+

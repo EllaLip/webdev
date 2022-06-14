@@ -1,0 +1,25 @@
+p {
+   color: green;
+   word-spacing:1em;
+   line-height: 1.5;
+   text-align: justify;
+   background-color: blak
+}
+
+a { 
+   color: red;
+}
+
+body { 
+      font-size: 14px;
+}
+
+h1 {
+    background-color: purple;
+    font-style: italic
+}
+
+h2 {
+    color: yellow;
+    font-style: italic;
+}

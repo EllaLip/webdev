@@ -1,0 +1,62 @@
+.box {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+
+.centar {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    row-gap: 20px;
+    align-items: center;
+    margin: 200px 600px 200px;
+  }
+
+.gumbi { 
+        display: flex;
+        gap: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+  }
+.subfooter {
+    gap: 20px;
+    display: flex;
+    justify-content: space-between;
+  }   
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 99%;
+    background-color: #f2f2f2;
+}
+
+a:hover, a:active  {
+  background-color: grey;
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+input:hover {
+  border-radius: 15px;
+  border-color: grey;
+}
+
+.SearchBar {
+  top: 355px;
+  left: 575px;
+}
+
+.SearchBar input {
+  height: 40px;
+  width: 500px;
+  border-radius: 15px;
+  border-style: groove;
+}
